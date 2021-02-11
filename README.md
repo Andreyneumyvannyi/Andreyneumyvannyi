@@ -5,11 +5,12 @@
 - :computer: I’m learning Java Script Programming
 - 👯 I love people, travel and nature
 
-## My contacts
-<a href="https://vk.com/andreyneumyvannyi" target="_blank" rel="noopener">VKontakte</a>
+## My contacts:
 
+[VKontakte](https://vk.com/andreyneumyvannyi)
+[Telegram](https://t.me/andreyneumyvannyi)
+[LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
 
-<br />
 <br />
 
 ### Languages and Tools:

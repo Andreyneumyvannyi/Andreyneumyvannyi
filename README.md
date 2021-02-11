@@ -7,9 +7,9 @@
 
 ## My contacts:
 
-[VKontakte](https://vk.com/andreyneumyvannyi)
-[Telegram](https://t.me/andreyneumyvannyi)
-[LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
+- [VKontakte](https://vk.com/andreyneumyvannyi)
+- [Telegram](https://t.me/andreyneumyvannyi)
+- [LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
 
 <br />
 

@@ -1,10 +1,10 @@
 ### Hello, I'm Andrey Neumyvannyi 👋
+[My CV](https://andreyneumyvannyi.github.io/rsschool-cv/)
 
 
 ## I'm a Frontend-developer 
 - :computer: I’m learning Java Script Programming
 - 👯 I love people, travel and nature
-- ### [My CV](https://andreyneumyvannyi.github.io/rsschool-cv/)
 
 ## My contacts:
 

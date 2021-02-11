@@ -44,10 +44,6 @@
 
 </details>
 
-<br />
-<br />
-<br />
-
 ### CodeWARS
 
 <img align="left" height="60%" width="50%" src="https://www.codewars.com/users/Andyneu8888/badges/large">

@@ -1,5 +1,14 @@
-### Languages and Tools:
+### Hello, I'm Andrey  👋
 
+
+## I'm a Frontend-developer 
+- :computer: I’m learning Java Script Programming
+- 👯 I love people, travel and nature
+
+## My contacts
+<a href="https://vk.com/andreyneumyvannyi"><img align="left" title="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
+
+### Languages and Tools:
 
 <img align="left" title="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" title="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -13,11 +22,6 @@
 <img align="left" title="GitHub" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 <img align="left" title="Terminal" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg">
 <img align="left" title="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-
-
-	
-
-
 
 <br />
 <br />

@@ -6,7 +6,7 @@
 - 👯 I love people, travel and nature
 
 ## My contacts
-[VKontakte](https://vk.com/andreyneumyvannyi "Необязательная подсказка")
+[VKontakte](https://vk.com/andreyneumyvannyi){:target="_blank" rel="noopener"}
 
 <br />
 <br />

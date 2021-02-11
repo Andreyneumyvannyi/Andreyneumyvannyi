@@ -11,8 +11,6 @@
 - [Telegram](https://t.me/andreyneumyvannyi)
 - [LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" title="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -29,9 +27,8 @@
 <img align="left" title="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
 <br />
-<br />
 
 ### CodeWARS
----
+
 <img align="left" height="60%" width="50%" src="https://www.codewars.com/users/Andyneu8888/badges/large">
 

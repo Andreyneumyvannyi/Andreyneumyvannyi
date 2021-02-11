@@ -6,7 +6,8 @@
 - 👯 I love people, travel and nature
 
 ## My contacts
-[VKontakte](https://vk.com/andreyneumyvannyi){:target="_blank" rel="noopener"}
+<a href="https://vk.com/andreyneumyvannyi" target="_blank">VKontakte</a>
+
 
 <br />
 <br />

@@ -12,7 +12,7 @@
 - [Telegram](https://t.me/andreyneumyvannyi)
 - [LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
 
-## My codewars:
+## My CodeWars:
 <img align="left" src="https://www.codewars.com/users/Andyneu8888/badges/large">
 
 <br />

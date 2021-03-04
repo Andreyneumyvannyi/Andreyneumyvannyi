@@ -11,7 +11,14 @@
 - [VKontakte](https://vk.com/andreyneumyvannyi)
 - [Telegram](https://t.me/andreyneumyvannyi)
 - [LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
-- <img width="360em" height="175em" align="right" src="https://www.codewars.com/users/Andyneu8888/badges/small">
+
+<br />
+<br />
+
+<img width="360em" height="175em" align="right" src="https://www.codewars.com/users/Andyneu8888/badges/small">
+
+<br />
+<br />
 
 ### Languages and Tools:
 

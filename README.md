@@ -12,10 +12,9 @@
 - [Telegram](https://t.me/andreyneumyvannyi)
 - [LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
 
-<img width="360em" height="175em" align="left" src="https://www.codewars.com/users/Andyneu8888/badges/small">
+## My codewars:
 
-<br />
-<br />
+<img align="left" src="https://www.codewars.com/users/Andyneu8888/badges/small">
 
 ### Languages and Tools:
 

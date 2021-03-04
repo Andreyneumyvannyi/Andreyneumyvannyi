@@ -11,6 +11,7 @@
 - [VKontakte](https://vk.com/andreyneumyvannyi)
 - [Telegram](https://t.me/andreyneumyvannyi)
 - [LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
+- <img width="360em" height="175em" align="right" src="https://www.codewars.com/users/Andyneu8888/badges/small">
 
 ### Languages and Tools:
 
@@ -30,7 +31,7 @@
 <br />
 <br />
 <br />
-<img width="360em" height="175em" align="right" src="https://www.codewars.com/users/Andyneu8888/badges/small">
+
 
 <img width="450em" height="200em" align="left" src="https://github-readme-stats.andreyneumyvannyi.vercel.app/api?username=Andreyneumyvannyi&show_icons=true?count_private=true&theme=blueberry">
 

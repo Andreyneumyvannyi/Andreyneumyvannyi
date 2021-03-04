@@ -2,17 +2,17 @@
 [My CV](https://andreyneumyvannyi.github.io/rsschool-cv/)
 
 
-## I'm a Frontend-developer 
+### I'm a Frontend-developer 
 - :computer: I’m learning Java Script Programming
 - 👯 I love people, travel and nature
 
-## My contacts:
+### My contacts:
 
 - [VKontakte](https://vk.com/andreyneumyvannyi)
 - [Telegram](https://t.me/andreyneumyvannyi)
 - [LinkedIn](https://www.linkedin.com/in/andreyneumyvannyi/)
 
-## My CodeWars:
+### My CodeWars:
 <img align="left" src="https://www.codewars.com/users/Andyneu8888/badges/large">
 
 <br />
